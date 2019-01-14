@@ -1,7 +1,7 @@
 # codeGenerator
 ##  generater the java bean from mysql
 
-####write by shell，using
+#### write by shell，using
 
 - mysqlclient
 
